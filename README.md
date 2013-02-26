@@ -28,7 +28,7 @@ Usage
 Installation
 ------------
 
-    $ npm install mom
+    $ npm install mdm
 
 Todo
 ----
