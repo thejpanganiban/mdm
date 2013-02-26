@@ -1,0 +1,18 @@
+{
+  "name": "mdm",
+  "version": "0.0.1",
+  "author": "Jesse Panganiban <me@jpanganiban.com>",
+  "description": "A dead-simple MongoDB Document Mapper.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpanganiban/mdm.git"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "mongodb": "*"
+  },
+  "license": "MIT",
+  "engines": ">=0.8"
+}
+}
