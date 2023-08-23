@@ -1,7 +1,7 @@
 MDM - MongoDB Document Mapper
 =============================
 
-A super flexible MongoDB Document Mapper (Similar to ROM; Most of the code were
+A super flexible MongoDB Document Mapper (Similar to [ROM](https://github.com/thejpanganiban/rom); Most of the code were
 actually reused). It's all about model method DRY-ness.
 
 Usage
